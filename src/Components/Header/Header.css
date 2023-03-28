@@ -1,0 +1,24 @@
+.headerH1 {
+    font-size: 50px;
+    font-weight: bold;    
+    color: chartreuse;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 450px;
+    margin-right: 450px;
+    background-color: #0a366a;
+    border-radius: 10px;
+}
+
+.headerH2 {
+    font-size: 20px;
+    font-weight: bold;
+    background-color: aliceblue;
+    border-radius: 10px;
+    color: #0a366a;
+    text-align: center;
+    margin-left: 450px;
+    margin-right: 450px;
+}

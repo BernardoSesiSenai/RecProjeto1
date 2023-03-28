@@ -1,0 +1,48 @@
+.ListaDeItens {
+    text-align: center;
+    background-color:aquamarine;
+    margin-left: 450px;
+    margin-right: 450px;
+    border-radius: 10px;
+}
+
+.inputAddItem {
+    font-weight: lighter;
+    font-family: Helvetica;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 18px;
+    width: 450px;
+}
+
+.buttomAddItem {
+    font-weight: bold;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 5px;
+    font-size: 18px;
+    width: auto;
+}
+
+.buttomDelItem {    
+    font-weight: bold;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 3px;
+    font-size: 15px;
+}
+
+.List {
+    list-style: none;
+    margin-top: 35px;
+}
+
+.itemList {
+    font-weight: bold;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 5px;
+    font-size: 18px;
+    width: auto;
+}
